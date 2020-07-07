@@ -1,0 +1,125 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 33}, {373, 86}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 26,
+          "frame" : "{{92, 240}, {150, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "uuid" : "BA06A8BE-DDFA-41D5-83CC-6EB4B3CE3815",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "word",
+          "name" : "wordlabel",
+          "font_name" : "<System-Bold>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 143}, {373, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{92, 240}, {150, 32}}",
+          "uuid" : "4A9A5F72-32EF-4100-97DF-8F7D6C29C426",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "pronunciation",
+          "name" : "pronlabel",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 203}, {373, 79}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 21,
+          "frame" : "{{92, 240}, {150, 32}}",
+          "uuid" : "61792515-3C7B-4A17-AABF-5D1E1580B5FD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "defines",
+          "name" : "deflabel",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 352}, {145, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "done_tapped",
+          "frame" : "{{127, 240}, {80, 32}}",
+          "title" : "Done",
+          "uuid" : "99361797-E6C4-45A3-9E2C-7E84423A46D7",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "donebutton",
+          "font_size" : 22
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{228, 352}, {145, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "done_tapped",
+          "frame" : "{{127, 240}, {80, 32}}",
+          "title" : "Yet",
+          "uuid" : "167BEC97-4A18-49D0-B5A4-49B9E8E0A388",
+          "border_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "name" : "yetbutton",
+          "font_size" : 22
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104, 416}, {172, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "done_tapped",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "Genius",
+          "uuid" : "287938EE-F86A-4A4F-8DDB-EFFD2C4E54F6",
+          "class" : "Button",
+          "name" : "geniusbutton",
+          "font_size" : 22
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {373, 510}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
